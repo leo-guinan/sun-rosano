@@ -1,0 +1,382 @@
+{
+  "id": "sun-rosano",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@rosano Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_d3a3c994af53",
+    "display_name": "rosano",
+    "user_id": "@rosano",
+    "description": "Community Archive-derived proof-of-search sun for @rosano.",
+    "document_count": 3685,
+    "word_count": 63358,
+    "active_days": 1468,
+    "emissions": [
+      "Might",
+      "Want",
+      "Try",
+      "Music",
+      "Think",
+      "Web"
+    ],
+    "generated_at": "2026-06-27T17:09:05.175942+00:00",
+    "color": "#f59e0b",
+    "mass": 11.057
+  },
+  "planets": [
+    {
+      "id": "planet_27ba409b5e45",
+      "name": "Might",
+      "summary": "Archive cluster around might: 3253 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "might",
+        "want",
+        "time",
+        "try",
+        "apps"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6a57c406b6a4",
+          "title": "Might receipt from 2021-12-31",
+          "excerpt": "only took me a minute to become a @resonatecoop member.\n\nthey're building a fair stream-to-own platform that compensates artists more while charging listeners less (with no monthly fees or b*chain) 🤯 stick that in your ears and groove it https://t.co/cS4daJZwtk",
+          "source_document_id": "1476950801121779713",
+          "timestamp": "2021-12-31T16:18:06+00:00",
+          "url": "https://x.com/rosano/status/1476950801121779713",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, want, time, try."
+        },
+        {
+          "id": "art_9ad852fa7de3",
+          "title": "Might receipt from 2024-01-28",
+          "excerpt": "i've been imagining a 'simple box where i can journal everything' for a while now, inspiring to see this elegantly realized in @alexobenauer's OLLOS demo, and way farther with types and spaced-repetition–'own your digital timeline' vibes 🙌🏽\n\nhttps://t.co/SnaHBim9IA",
+          "source_document_id": "1751413828066140246",
+          "timestamp": "2024-01-28T01:16:10+00:00",
+          "url": "https://x.com/rosano/status/1751413828066140246",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, want, time, try."
+        },
+        {
+          "id": "art_e9190fb77d93",
+          "title": "Might receipt from 2020-10-17",
+          "excerpt": "Reading a lot about @urbit right now and came across this post documenting their design process for visual 'sigils', which are iconic representations of the syllables that comprise personal identifiers. Really interesting to see the iterations.  https://t.co/1GSyITyl6L https://t.co/kOTi1UTQkp",
+          "source_document_id": "1317534652777844737",
+          "timestamp": "2020-10-17T18:35:14+00:00",
+          "url": "https://x.com/rosano/status/1317534652777844737",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, want, time, try."
+        },
+        {
+          "id": "art_99fe8b2afe14",
+          "title": "Might receipt from 2023-12-12",
+          "excerpt": "since @jessmartin got me 'interop-pilled' in our recent conversation, i'm seeing it everywhere like the matrix, so i put together some interesting reading on https://t.co/Mop28FTu8A – did i miss anything? 💊 https://t.co/hIAJEexb6a",
+          "source_document_id": "1734560479694012782",
+          "timestamp": "2023-12-12T13:06:59+00:00",
+          "url": "https://x.com/rosano/status/1734560479694012782",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: might, want, time, try."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dc630146e331",
+      "proof_score": 1,
+      "mass": 32.647,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_98a2575ff055",
+      "name": "Want",
+      "summary": "Archive cluster around want: 74 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "don",
+        "other",
+        "read",
+        "music"
+      ],
+      "artifacts": [
+        {
+          "id": "art_729a5c3e67c5",
+          "title": "Want receipt from 2021-09-08",
+          "excerpt": "4. my upcoming @interintellect_ salon will be about this kind of topic as i think it's useful to discuss in the moment, and selfishly i want/need more tips from other people\n\nhttps://t.co/pETTTJQKsr",
+          "source_document_id": "1435612359909945347",
+          "timestamp": "2021-09-08T14:33:53+00:00",
+          "url": "https://x.com/rosano/status/1435612359909945347",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, other, read."
+        },
+        {
+          "id": "art_eccaf9f43057",
+          "title": "Want receipt from 2021-08-31",
+          "excerpt": "@BeauTFC more screenreader-friendly to post a link as well: https://t.co/aGFUhVvoML\n\nif you want to be more snarky: https://t.co/ilH282qe9z",
+          "source_document_id": "1432721481251840008",
+          "timestamp": "2021-08-31T15:06:34+00:00",
+          "url": "https://x.com/rosano/status/1432721481251840008",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, other, read."
+        },
+        {
+          "id": "art_505452b26251",
+          "title": "Want receipt from 2024-03-19",
+          "excerpt": "play what makes you want to play\n\nread what makes you want to read\n\nbuild what makes you want to build https://t.co/CB256z0V6h",
+          "source_document_id": "1770093297702179010",
+          "timestamp": "2024-03-19T14:21:43+00:00",
+          "url": "https://x.com/rosano/status/1770093297702179010",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, other, read."
+        },
+        {
+          "id": "art_fa49d1b80201",
+          "title": "Want receipt from 2023-12-20",
+          "excerpt": "a homepage that feels like home! i'm thinking about replacing mine too, not yet sure what i want to welcome people into, but definitely something that feels more like how i am.\n\nnice points below too, wanted to encourage people 'talking to each other' but a forum wasn't it. https://t.co/dD71FlLHQT",
+          "source_document_id": "1737556087300096040",
+          "timestamp": "2023-12-20T19:30:28+00:00",
+          "url": "https://x.com/rosano/status/1737556087300096040",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, don, other, read."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3e45289945ed",
+      "proof_score": 0.782,
+      "mass": 22.411,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_b56515d43b14",
+      "name": "Try",
+      "summary": "Archive cluster around try: 81 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "try",
+        "maybe",
+        "think",
+        "down",
+        "wfh4nq4u"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e82ec102449c",
+          "title": "Try receipt from 2021-12-29",
+          "excerpt": "@TheAnnaGat i appreciate the opportunity, thank you. and extra shout out to @visakanv for putting energy into @interintellect_ and encouraging more people to try the sublimely human act of writing 🙏🏽💫",
+          "source_document_id": "1476031975706222597",
+          "timestamp": "2021-12-29T03:27:01+00:00",
+          "url": "https://x.com/rosano/status/1476031975706222597",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: try, maybe, think, down."
+        },
+        {
+          "id": "art_7960a19935d2",
+          "title": "Try receipt from 2021-06-07",
+          "excerpt": "after much hesitation i'm deciding give #opencollective a try https://t.co/5MzFwXp9jI with @FISSIONcodes as my host.\n\nthis is for anyone who wants to help me continue creating projects that are public, accessible for free, and open-source. no account necessary, just email address",
+          "source_document_id": "1401922102081560578",
+          "timestamp": "2021-06-07T15:20:50+00:00",
+          "url": "https://x.com/rosano/status/1401922102081560578",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: try, maybe, think, down."
+        },
+        {
+          "id": "art_47c5a339d827",
+          "title": "Try receipt from 2024-10-11",
+          "excerpt": "@DefenderOfBasic @ForestedDepth i like the idea that it's worthwhile to explore something because it matters to your community, to give less priority to what 'big economy' expects and all the bad patterns that come with it. not easy i suppose, but i love when people try and surprise themselves in the process.",
+          "source_document_id": "1844667291335643390",
+          "timestamp": "2024-10-11T09:12:09+00:00",
+          "url": "https://x.com/rosano/status/1844667291335643390",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: try, maybe, think, down."
+        },
+        {
+          "id": "art_4b1fc01b5f1e",
+          "title": "Try receipt from 2021-10-20",
+          "excerpt": "@bmann @andy_matuschak i have no solution either but try to encourage awareness of ‘discussion vs reference’, and naming/compressing of threads https://t.co/5XVEwQajZr\n\ndiscord is like pure discussion and hard to link, whereas twitter can maybe work as a messy reference in addition to chat",
+          "source_document_id": "1450936785316597768",
+          "timestamp": "2021-10-20T21:27:41+00:00",
+          "url": "https://x.com/rosano/status/1450936785316597768",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: try, maybe, think, down."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a10a1e4c3348",
+      "proof_score": 0.791,
+      "mass": 22.891,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_06b8dccdb5c6",
+      "name": "Music",
+      "summary": "Archive cluster around music: 114 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "music",
+        "salon",
+        "interintellect_",
+        "great",
+        "toronto"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0562eacbd2d5",
+          "title": "Music receipt from 2021-11-09",
+          "excerpt": "my 4th @interintellect_ salon will be on:\n\nIMPROVISATION ✨\n\nwith his holiness @vivekt17, who for me embodies a sacred trinity of funny ▵ sensitive ▵ deep.\n\njoin us for a discussion of music 👂🏼, comedy 🎭, communion 💖, consciousness ✨.\n\nlooking forward to this 🌊〰️👋🏼 https://t.co/itha2h5wu9",
+          "source_document_id": "1458140993019023365",
+          "timestamp": "2021-11-09T18:34:38+00:00",
+          "url": "https://x.com/rosano/status/1458140993019023365",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: music, salon, interintellect_, great."
+        },
+        {
+          "id": "art_0beac8e560d2",
+          "title": "Music receipt from 2022-01-01",
+          "excerpt": "@goblinodds too lazy to answer the whole poll, but this is great. in my past, a combo of:\n\n- too much moving around\n- not putting myself out there enough (always computers or music in a room)\n- selectiveness for sincere people\n- distrusting dating apps + screen fatigue\n- lacking confidence",
+          "source_document_id": "1477426274238971905",
+          "timestamp": "2022-01-01T23:47:27+00:00",
+          "url": "https://x.com/rosano/status/1477426274238971905",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: music, salon, interintellect_, great."
+        },
+        {
+          "id": "art_33854fd8be72",
+          "title": "Music receipt from 2021-11-22",
+          "excerpt": "not one but *two* of my former music improvisation teachers/professors/guides will be attending.\n\ngoing to be a memorable discussion for sure.\n\n🌊〰👋🏼 https://t.co/6CNROvAF4o",
+          "source_document_id": "1462815675819376643",
+          "timestamp": "2021-11-22T16:10:09+00:00",
+          "url": "https://x.com/rosano/status/1462815675819376643",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: music, salon, interintellect_, great."
+        },
+        {
+          "id": "art_f9657f8814da",
+          "title": "Music receipt from 2021-07-08",
+          "excerpt": "the experience from @Clo__S  and @bonumdesign's salon in march was life-changing for me, i couldn't believe witnessing so much vulnerability and trust among over a dozen 'internet people' from all over the world in a discussion about music (for like over 3 hours!?)",
+          "source_document_id": "1413092754171834368",
+          "timestamp": "2021-07-08T11:09:01+00:00",
+          "url": "https://x.com/rosano/status/1413092754171834368",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: music, salon, interintellect_, great."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bf207d847e07",
+      "proof_score": 0.824,
+      "mass": 23.378,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_90e5f23a54fe",
+      "name": "Think",
+      "summary": "Archive cluster around think: 99 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "those",
+        "maybe",
+        "sure",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ac1fe49f4ab8",
+          "title": "Think receipt from 2021-12-30",
+          "excerpt": "deep breathers: is it the belly or the chest that expands, or both? i think i've been inhibiting myself since a young age and may have uncovered a misconception today 🫁",
+          "source_document_id": "1476659835030716417",
+          "timestamp": "2021-12-30T21:01:54+00:00",
+          "url": "https://x.com/rosano/status/1476659835030716417",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, those, maybe, sure."
+        },
+        {
+          "id": "art_d8265021c46d",
+          "title": "Think receipt from 2023-07-17",
+          "excerpt": "@anferneec @haideralmosawi @mariepoulin @typeoneerror i think of it as \"show up every day and practice acknowledging/incorporating your current state into the process,\" which can also include choosing to stop if necessary, but it's about being there to make the choice.",
+          "source_document_id": "1680915231613104137",
+          "timestamp": "2023-07-17T12:19:55+00:00",
+          "url": "https://x.com/rosano/status/1680915231613104137",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, those, maybe, sure."
+        },
+        {
+          "id": "art_5acd4bb7457e",
+          "title": "Think receipt from 2025-09-23",
+          "excerpt": "atproto, nostr, webxdc, solid, remotestorage, and 'dapps' each have a different focus and data flow\n\nbut i can't help but see them as collections of \"web apps\"\n\nand think it'd be possible and cool to give each web app the combined user base of the others",
+          "source_document_id": "1970482104526914040",
+          "timestamp": "2025-09-23T13:35:18+00:00",
+          "url": "https://x.com/rosano/status/1970482104526914040",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, those, maybe, sure."
+        },
+        {
+          "id": "art_0e110a762720",
+          "title": "Think receipt from 2021-12-15",
+          "excerpt": "adding *visible text* to https://t.co/yQDfAI142l after years of being purely iconic and visually wordless—kind of dramatic for me but i'm happy with the result and i think it will be more helpful for other people",
+          "source_document_id": "1471132416098119699",
+          "timestamp": "2021-12-15T14:57:54+00:00",
+          "url": "https://x.com/rosano/status/1471132416098119699",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, those, maybe, sure."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_fb78f9a5b773",
+      "proof_score": 0.811,
+      "mass": 23.68,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_d8360e404f2b",
+      "name": "Web",
+      "summary": "Archive cluster around web: 64 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "web",
+        "sqooh4b4h3",
+        "notational",
+        "velocity",
+        "works"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f84d5984db38",
+          "title": "Web receipt from 2021-03-29",
+          "excerpt": "★ Small Web App Ring https://t.co/eHnDszl8lT\n\ni'm starting a webring for web apps so that these projects can be less isolated and to help with 'discovery'. if you know independant developers making \"web apps that don't need an account to function\", please invite them to join.",
+          "source_document_id": "1376481616084762625",
+          "timestamp": "2021-03-29T10:29:25+00:00",
+          "url": "https://x.com/rosano/status/1376481616084762625",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: web, sqooh4b4h3, notational, velocity."
+        },
+        {
+          "id": "art_6ffad6c65358",
+          "title": "Web receipt from 2021-03-25",
+          "excerpt": "★ Emoji Log https://t.co/Ukk5MvlE0p\n\ni started working on this for ios in 2015 but never finished it, retried recently on web and it came together fairly quickly, been using it for a few months now to track, journal, and observe\n\nhttps://t.co/KkNUr8CSdd",
+          "source_document_id": "1375107987946270724",
+          "timestamp": "2021-03-25T15:31:07+00:00",
+          "url": "https://x.com/rosano/status/1375107987946270724",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: web, sqooh4b4h3, notational, velocity."
+        },
+        {
+          "id": "art_7509c005390b",
+          "title": "Web receipt from 2021-04-20",
+          "excerpt": "★ Joybox https://t.co/Z78ywJRyAm A pinboard for media\n\npublishing today my 5th web app, for collecting and enjoying video or audio links from different platforms, and easily keep a record of what you've played + #ownyourdata 100%\n\nhttps://t.co/2Ac7u6BNwK",
+          "source_document_id": "1384491997818499078",
+          "timestamp": "2021-04-20T12:59:49+00:00",
+          "url": "https://x.com/rosano/status/1384491997818499078",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: web, sqooh4b4h3, notational, velocity."
+        },
+        {
+          "id": "art_04659fc16db5",
+          "title": "Web receipt from 2024-06-06",
+          "excerpt": "ten years later… resurrecting the web interface from my 2014 cooking project (a relic of the 'click around' era) https://t.co/cQpZc9e0vZ https://t.co/ZKEn9kZ1E1",
+          "source_document_id": "1798664254557389239",
+          "timestamp": "2024-06-06T10:32:30+00:00",
+          "url": "https://x.com/rosano/status/1798664254557389239",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: web, sqooh4b4h3, notational, velocity."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b2c069ae9176",
+      "proof_score": 0.767,
+      "mass": 21.307,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
